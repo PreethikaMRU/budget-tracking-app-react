@@ -1,3 +1,6 @@
+# About App
+This project is a simple budget tracking app using React.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -19,3 +22,9 @@ You may also see any lint errors in the console.
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
 To learn React, check out the [React documentation](https://reactjs.org/).
+
+## Reference
+
+Created with help of [React Budget App Tutorial](https://www.youtube.com/watch?v=aeYxBd1it7I&t=1s).
+
+This app was created for learning purposes.
